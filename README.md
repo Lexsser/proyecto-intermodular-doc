@@ -11,3 +11,4 @@ Este proyecto intermodular consiste en el desarrollo de una aplicación sencilla
 
 ## 👤 Autor
 Daniel Escolano
+Hugo Franco
