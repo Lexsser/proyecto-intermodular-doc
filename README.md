@@ -10,5 +10,5 @@ Este proyecto intermodular consiste en el desarrollo de una aplicación sencilla
 - Git / GitHub  
 
 ## 👤 Autor
-Daniel Escolano
-Hugo Franco
+- Daniel Escolano
+- Hugo Franco
