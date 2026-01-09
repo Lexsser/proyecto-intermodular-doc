@@ -1,26 +1,7 @@
-# Instalación
+# 2. Introducción
 
-En esta sección se detallan los pasos necesarios para instalar y ejecutar el proyecto en un entorno local. Estos pasos están pensados para facilitar la puesta en marcha del sistema por primera vez.
+## Objetivo del proyecto
+El objetivo principal de este proyecto es desarrollar una aplicación educativa intermodular que integre conocimientos de diferentes asignaturas. Se busca ofrecer un sistema sencillo que permita trabajar aspectos técnicos como frontend, backend y documentación.
 
----
-
-## Requisitos previos
-
-Antes de comenzar, asegúrate de tener instalado lo siguiente:
-
-- **Node.js** (versión 18 o superior)
-- **Git** para clonar el repositorio
-- Navegador web actualizado (Chrome, Firefox o Edge)
-- Editor de código recomendado: **Visual Studio Code**
-
----
-
-## Pasos de instalación
-
-### 1. Clonar el repositorio
-
-Abre una terminal y ejecuta:
-
-```bash
-git clone https://github.com/usuario/proyecto-intermodular.git
-//Ejemplo de instalacion.
+## Problema que resuelve
+El proyecto propone una solución organizada para centralizar tareas, datos o recursos utilizados en un entorno académico. Facilita la gestión de información y la comprensión del flujo de trabajo entre módulos.
